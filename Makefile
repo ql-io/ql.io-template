@@ -7,6 +7,10 @@ clean:
 
 install:
 	mkdir pids;mkdir logs;\
+	npm link ql.io-app;\
+	npm link ql.io-compiler;\
 	npm install
+	-mkdir tables
+	-mkdir routes
 
 test:
