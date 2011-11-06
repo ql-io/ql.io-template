@@ -1,0 +1,12 @@
+{
+    "name": "ql.io-app",
+    "version": "0.2.5",
+    "dependencies":{
+        "ql.io-app-app": "",
+        "ql.io-compiler": "",
+        "mustache": "",
+        "headers": "",
+        "express": "",
+        "ejs": ""
+    }
+}
