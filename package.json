@@ -1,6 +1,6 @@
 {
     "name": "ql.io-app",
-    "version": "0.2.5",
+    "version": "0.3.0",
     "dependencies":{
         "ql.io-app": "",
         "ql.io-compiler": "",
