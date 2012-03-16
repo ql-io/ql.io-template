@@ -6,9 +6,7 @@ clean:
 	-rm -fr pids
 
 install:
-	mkdir pids;mkdir logs;\
-	npm link ql.io-app;\
-	npm link ql.io-compiler;\
+	-mkdir pids;mkdir logs;\
 	npm install
 	-mkdir tables
 	-mkdir routes
