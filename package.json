@@ -2,7 +2,7 @@
     "name": "ql.io-app",
     "version": "0.3.0",
     "dependencies":{
-        "ql.io-app": "",
+        "ql.io-app": ">0.8.0",
         "ql.io-compiler": "",
         "mustache": "",
         "headers": "",
